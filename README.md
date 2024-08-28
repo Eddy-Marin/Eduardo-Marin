@@ -1,2 +1,0 @@
-# Eduardo
-About me
