@@ -1,4 +1,4 @@
-<h1 align="center"> <b> About me </b></h1>
+<h1 align="center"> <b> About me 🤟 </b></h1>
 
 Hi! I'm Eduardo Marín, a Computer Systems Engineer, currently working as a Performance Test Engineer. However, I'm also very passionate about backend development and cybersecurity. Additionally, I'm always looking to learn new things.
 
