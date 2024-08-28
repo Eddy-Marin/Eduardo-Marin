@@ -67,7 +67,11 @@ In this repository, you'll find information about my professional and academic e
 - Strong Communication
 
 ## Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,nodejs,react,vue,git,arduino,bash,bootstrap,c,cs,cpp,github,kali,latex,linux,mysql,nextjs,php,notion,postman,py,raspberrypi,visualstudio,vscode)](https://skillicons.dev))
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,nodejs,react,vue,git,arduino,bash,bootstrap,c,cs,cpp,github,kali,latex,linux,mysql,nextjs,php,notion,postman,py,raspberrypi,visualstudio,vscode" />
+  </a>
+</p>
 
 
 **Throughout my professional career, I have worked with the following technologies:**
