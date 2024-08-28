@@ -94,4 +94,4 @@ En este repositorio encontrarás información sobre mi experiencia profesional y
 Este currículum es un documento en evolución y se actualizará frecuentemente. Para mantenerte al tanto de mis últimos logros y habilidades, te animo a revisarlo periódicamente.
 
 ## README en Inglés
-[README_EN]()
+[README_EN](README.md)
